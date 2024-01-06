@@ -11,5 +11,6 @@ public class count_numbers {
         }
         System.out.println("The number of digits is : " + scount);
         System.out.println("The number of digits is : " + scount);
+        System.out.println("The number of digits is : " + scount);
     }
 }
